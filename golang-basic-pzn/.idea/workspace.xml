@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7d9b297-79eb-4040-9875-b1069965890e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Installed Software\go-sdk\go1.15.5" />
+  <component name="ProjectId" id="1kGK4GHUziWv6c2ajIGU5ZjvGqy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\[2] Go-lang\Code-Golang\golang-basic-pzn\main" />
+      <recent name="D:\[2] Go-lang\Code-Golang\golang-basic-pzn\main\mathoperation" />
+      <recent name="D:\[2] Go-lang\Code-Golang\golang-basic-pzn\main\typealias" />
+      <recent name="D:\[2] Go-lang\Code-Golang\golang-basic-pzn\main\constant" />
+      <recent name="D:\[2] Go-lang\Code-Golang\golang-basic-pzn\main\variabel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build interface-error.go">
+    <configuration name="go build interface-error.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-basic-pzn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/interface-error.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-basic-pzn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/interface.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build interfcae-kosong.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-basic-pzn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/interfcae-kosong.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build nil.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-basic-pzn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/nil.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build struct-method.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-basic-pzn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/struct-method.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build interface-error.go" />
+        <item itemvalue="Go Build.go build nil.go" />
+        <item itemvalue="Go Build.go build interfcae-kosong.go" />
+        <item itemvalue="Go Build.go build interface.go" />
+        <item itemvalue="Go Build.go build struct-method.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="92" key="#GOPATH" timestamp="1605321567842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="192" y="92" key="#GOPATH/0.0.1600.860@0.0.1600.860" timestamp="1605321567842" />
+    <state x="0" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605341465467">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1605341465467" />
+    <state x="180" y="188" key="FileChooserDialogImpl" timestamp="1605321562009">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="180" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605321562009" />
+    <state width="754" height="189" key="GridCell.Tab.0.bottom" timestamp="1605349134988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="189" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605349134988" />
+    <state width="754" height="189" key="GridCell.Tab.0.center" timestamp="1605349134988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="189" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605349134988" />
+    <state width="754" height="189" key="GridCell.Tab.0.left" timestamp="1605349134988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="189" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605349134988" />
+    <state width="754" height="189" key="GridCell.Tab.0.right" timestamp="1605349134988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="189" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605349134988" />
+    <state x="242" y="281" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1605341481592">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="242" y="281" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1600.860@0.0.1600.860" timestamp="1605341481592" />
+    <state x="63" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605328480939">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="63" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1605328480939" />
+  </component>
+</project>
