@@ -20,7 +20,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7d9b297-79eb-4040-9875-b1069965890e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/If.go" beforeDir="false" afterPath="$PROJECT_DIR$/If.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/access-modifier.go" beforeDir="false" afterPath="$PROJECT_DIR$/access-modifier.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/break-continue.go" beforeDir="false" afterPath="$PROJECT_DIR$/break-continue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/closure.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/comentar.go" beforeDir="false" afterPath="$PROJECT_DIR$/comentar.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/continue.go" beforeDir="false" afterPath="$PROJECT_DIR$/continue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/data-type-array.go" beforeDir="false" afterPath="$PROJECT_DIR$/data-type-array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/data-type-boolean.go" beforeDir="false" afterPath="$PROJECT_DIR$/data-type-boolean.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/data-type-map.go" beforeDir="false" afterPath="$PROJECT_DIR$/data-type-map.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/data-type-number.go" beforeDir="false" afterPath="$PROJECT_DIR$/data-type-number.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/data-type-slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/data-type-slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/data-type-string.go" beforeDir="false" afterPath="$PROJECT_DIR$/data-type-string.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/database/database.go" beforeDir="false" afterPath="$PROJECT_DIR$/databases/database.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/declaration-type.go" beforeDir="false" afterPath="$PROJECT_DIR$/declaration-type.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/defer-panic-recover.go" beforeDir="false" afterPath="$PROJECT_DIR$/defer-panic-recover.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/for.go" beforeDir="false" afterPath="$PROJECT_DIR$/for.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-anonymous.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-anonymous.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-as-parameter.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-as-parameter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-named-return-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-named-return-value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-parameter.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-parameter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-recusive.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-recusive.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-return-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-return-value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-returning-multiple-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-returning-multiple-value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function-variadic.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-variadic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function.go" beforeDir="false" afterPath="$PROJECT_DIR$/function.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/hello-world.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/interface-error.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface-error.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/interface-kosong.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface-kosong.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/konvert-tipe-data.go" beforeDir="false" afterPath="$PROJECT_DIR$/konvert-tipe-data.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/nil.go" beforeDir="false" afterPath="$PROJECT_DIR$/nil.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/operasi-boolean.go" beforeDir="false" afterPath="$PROJECT_DIR$/operasi-boolean.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/operasi-matematika.go" beforeDir="false" afterPath="$PROJECT_DIR$/operasi-matematika.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/operasi-perbandingan.go" beforeDir="false" afterPath="$PROJECT_DIR$/operasi-perbandingan.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/package-initialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/pointer-function.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointer-function.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/pointer-method.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointer-method.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/struct-method.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct-method.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/switch.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/type-assertion.go" beforeDir="false" afterPath="$PROJECT_DIR$/type-assertion.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/variable.go" beforeDir="false" afterPath="$PROJECT_DIR$/variable.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +176,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="192" y="92" key="#GOPATH" timestamp="1605321567842">
