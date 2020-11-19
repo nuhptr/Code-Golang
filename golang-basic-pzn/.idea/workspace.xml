@@ -21,49 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c7d9b297-79eb-4040-9875-b1069965890e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/If.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-modifier.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/access-modifier.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/break-continue.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/break-continue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/closure.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comentar.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/comentar.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/continue.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/continue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type-array.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-type-array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type-boolean.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-type-boolean.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type-map.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-type-map.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type-number.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-type-number.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type-slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-type-slice.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type-string.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-type-string.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/databases/database.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/database.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-type.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/declaration-type.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/defer-panic-recover.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/defer-panic-recover.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/for.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-anonymous.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-anonymous.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-as-parameter.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-as-parameter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-named-return-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-named-return-value.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-parameter.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-parameter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-recusive.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-recusive.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-return-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-return-value.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-returning-multiple-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-returning-multiple-value.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-value.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-variadic.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function-variadic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello-world.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface-error.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface-error.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface-kosong.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface-kosong.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konvert-tipe-data.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/konvert-tipe-data.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nil.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/nil.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operasi-boolean.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/operasi-boolean.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operasi-matematika.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/operasi-matematika.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operasi-perbandingan.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/operasi-perbandingan.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointer-function.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/pointer-function.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointer-method.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/pointer-method.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/pointer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct-method.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/struct-method.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/struct.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/switch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-assertion.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/type-assertion.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/import.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/import.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +137,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="564" y="138" width="471" height="600" key="#Build_Tags_&amp;_Vendoring" timestamp="1605770573519">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="564" y="138" width="471" height="600" key="#Build_Tags_&amp;_Vendoring/0.0.1600.860@0.0.1600.860" timestamp="1605770573519" />
     <state x="192" y="92" key="#GOPATH" timestamp="1605321567842">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -195,22 +157,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="180" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605321562009" />
-    <state width="1557" height="174" key="GridCell.Tab.0.bottom" timestamp="1605769956236">
+    <state width="1557" height="174" key="GridCell.Tab.0.bottom" timestamp="1605770338639">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="174" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605769956236" />
-    <state width="1557" height="174" key="GridCell.Tab.0.center" timestamp="1605769956236">
+    <state width="1557" height="174" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605770338639" />
+    <state width="1557" height="174" key="GridCell.Tab.0.center" timestamp="1605770338639">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="174" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605769956236" />
-    <state width="1557" height="174" key="GridCell.Tab.0.left" timestamp="1605769956236">
+    <state width="1557" height="174" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605770338639" />
+    <state width="1557" height="174" key="GridCell.Tab.0.left" timestamp="1605770338639">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="174" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605769956236" />
-    <state width="1557" height="174" key="GridCell.Tab.0.right" timestamp="1605769956236">
+    <state width="1557" height="174" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605770338639" />
+    <state width="1557" height="174" key="GridCell.Tab.0.right" timestamp="1605770338639">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="174" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605769956236" />
+    <state width="1557" height="174" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605770338639" />
     <state x="242" y="281" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1605341481592">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

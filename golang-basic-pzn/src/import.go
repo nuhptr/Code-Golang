@@ -1,3 +1,10 @@
 package main
 
-import ""
+import (
+	"fmt"
+	"golang-basic-pzn\databases"
+)
+
+func main() {
+	fmt.Println()
+}
