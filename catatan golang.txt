@@ -1,0 +1,10 @@
+untuk menginisialisasi project go
+- go mod init (nama project)
+
+perintah untuk build dan run
+- go build
+- go run
+
+kenapa filenya main.go
+1. executable (main)
+2. library (sembarang selain main)
