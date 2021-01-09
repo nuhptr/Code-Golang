@@ -1,10 +1,21 @@
-untuk menginisialisasi project go
+-> untuk menginisialisasi project go
 - go mod init (nama project)
 
-perintah untuk build dan run
+-> perintah untuk build dan run
 - go build
 - go run
 
-kenapa filenya main.go
+-> kenapa filenya main.go
 1. executable (main)
 2. library (sembarang selain main)
+
+jika nama function add atau huruf kecil (membuatnya mempunyai previlage private)
+jika huruf awalnya kapital bisa dipanggil di package lain
+
+-> kenapa kita menggunakan import?
+1. Standar library
+2. package berbeda
+3. yang dibikin orang lain (github)
+
+-> didalam package main
+harus mengandung sebuah func main
