@@ -24,7 +24,7 @@ func main() {
 	} else if score <= 70 {
 		grade = "C"
 	} else {
-		// execute
+		// Execute
 		grade = "Null"
 	}
 
