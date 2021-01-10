@@ -19,3 +19,12 @@ jika huruf awalnya kapital bisa dipanggil di package lain
 
 -> didalam package main
 harus mengandung sebuah func main
+
+-> tipe data
+bisa menggunakan var
+atau := (langsung diisi nilai)
+yang sering dipake
+- string ("halo", "selamat makan")
+- float64 (100.1 , 3.14)
+- int (10, 8888)
+- bool (true/false)
