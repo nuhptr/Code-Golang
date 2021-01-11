@@ -3,9 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	//
+	// Switch Case
 	number := 5
-
 	switch number {
 	case 1:
 		fmt.Println("Satu")
