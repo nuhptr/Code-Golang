@@ -28,3 +28,19 @@ yang sering dipake
 - float64 (100.1 , 3.14)
 - int (10, 8888)
 - bool (true/false)
+
+-> pendefinisian array
+[9] jika ada isinya / [...]int untuk panjang yang dinamis
+[...]string {//langsung diisi nilainya}
+[] untuk dijadikan parameter
+
+-> for
+jika array maka (index), (value) : x range y {}
+jika map maka (key), (value) : x range y {}
+jika tidak ingin menggunakan gunakan _
+
+-> slice menggunakan keyword append
+
+-> map slice keywordnya
+[]map[string] string
+manggilnya variabel["key"]
