@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home</title>
-  </head>
-  <body>
-    <div class="text">
-      <p>{{.content}}</p>
-    </div>
-  </body>
-</html>
+{{template "layout" .}} {{define "main"}} {{ range . }}
+
+<div class="name">{{.Name}} - {{.Price}} - {{.StockStatus}}</div>
+
+{{end}} {{end}}

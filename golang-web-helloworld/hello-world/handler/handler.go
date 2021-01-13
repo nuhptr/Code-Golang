@@ -1,6 +1,7 @@
 package handler
 
 import (
+	"golangweb/entity"
 	"html/template"
 	"log"
 	"net/http"
@@ -18,16 +19,32 @@ func HomeHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	tmpl, err := template.ParseFiles(path.Join("views", "index.html"))
+	tmpl, err := template.ParseFiles(path.Join("views", "index.html"), path.Join("views", "layout.html"))
 	if err != nil {
 		log.Println(err)
 		http.Error(w, "Error is happening, stay calm", http.StatusInternalServerError)
 		return
 	}
 
-	data := map[string]interface{}{
-		"title":   "Golang - web",
-		"content": "Still learning with mas Agung Setiawan",
+	// menggunakan map
+	// data := map[string]interface{}{
+	// 	"title":   "Golang - web",
+	// 	"content": "Still learning with mas Agung Setiawan",
+	// }
+
+	// menggunakan struct
+	// data := entity.Product{
+	// 	ID:    1,
+	// 	Name:  "Adi Nugraha Putra",
+	// 	Price: 2200000,
+	// 	Stock: 3,
+	// }
+
+	// menggunakan slice of struct
+	data := []entity.Product{
+		{ID: 1, Name: "Xpander", Price: 20000, Stock: 11},
+		{ID: 2, Name: "Pajero", Price: 30000, Stock: 1},
+		{ID: 3, Name: "Pajero Sport", Price: 40000, Stock: 8},
 	}
 
 	err = tmpl.Execute(w, data)
@@ -51,7 +68,7 @@ func ProductHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	tmpl, err := template.ParseFiles(path.Join("views", "product.html"))
+	tmpl, err := template.ParseFiles(path.Join("views", "product.html"), path.Join("views", "layout.html"))
 	if err != nil {
 		log.Println(err)
 		http.Error(w, "Error is happening, stay calm", http.StatusInternalServerError)
