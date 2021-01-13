@@ -1,7 +1,6 @@
 package handler
 
 import (
-	"fmt"
 	"html/template"
 	"log"
 	"net/http"
@@ -52,5 +51,21 @@ func ProductHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	fmt.Fprintf(w, "Product Page: %d", idNumb)
+	tmpl, err := template.ParseFiles(path.Join("views", "product.html"))
+	if err != nil {
+		log.Println(err)
+		http.Error(w, "Error is happening, stay calm", http.StatusInternalServerError)
+		return
+	}
+
+	data := map[string]interface{}{
+		"content": idNumb,
+	}
+
+	err = tmpl.Execute(w, data)
+	if err != nil {
+		log.Println(err)
+		http.Error(w, "Error is coming, keep calm", http.StatusInternalServerError)
+		return
+	}
 }
